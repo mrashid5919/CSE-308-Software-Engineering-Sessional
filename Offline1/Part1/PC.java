@@ -63,6 +63,7 @@ public class PC {
                 System.out.println(itemName.get(i)+"-> "+individualCost.get(i)+" BDT");
             }
         }
+        System.out.println("Total cost of this PC: "+cost);
         System.out.println();
     }
 }
